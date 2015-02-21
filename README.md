@@ -1,3 +1,2 @@
 # hamahakki
-# hamahakki
-# hamahakki
+ruby Application.rb
