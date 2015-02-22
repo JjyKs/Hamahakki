@@ -1,2 +1,2 @@
-# hamahakki
+# Solinor hackathon hamahakki
 ruby Application.rb
